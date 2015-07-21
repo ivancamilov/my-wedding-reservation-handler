@@ -1,0 +1,23 @@
+{
+  "name": "wedding-reservation",
+  "version": "1.0.0",
+  "description": "Node.js app that handle's my wedding's reservations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ivancamilov@github.com/ivancamilov/my-wedding-reservation-handler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivancamilov/my-wedding-reservation-handler/issues"
+  },
+  "homepage": "https://github.com/ivancamilov/my-wedding-reservation-handler",
+  "dependencies": {
+    "mongoose": "^4.0.7",
+    "restify": "^3.0.3"
+  }
+}
